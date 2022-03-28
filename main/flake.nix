@@ -11,7 +11,6 @@
   inputs.src-expander-main.ref   = "refs/heads/main";
   inputs.src-expander-main.owner = "soraiemame";
   inputs.src-expander-main.repo  = "expander";
-  inputs.src-expander-main.dir   = "";
   inputs.src-expander-main.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
