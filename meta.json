@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/soraiemame/expander",
   "refs": [
-    "fatal: unable to access 'https://github.com/soraiemame/expander/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/soraiemame/expander/': Failed to connect to github.com port 443 after 1903 ms: No route to host",
     ""
   ],
   "heads": []
